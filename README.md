@@ -348,10 +348,10 @@ EDA involved exploring  the sales data to  answer key question , such as :
 ### Findings
 ---
 
--There are more men than wowen in the company
--The number of employee is increasing with time
--The dorminate race in the company are white
--The highest age group are those found between 35-44
+-	There are more men than wowen in the company
+-	The number of employee is increasing with time
+-	The dorminate race in the company are white
+-	The highest age group are those found between 35-44
  
  
 
