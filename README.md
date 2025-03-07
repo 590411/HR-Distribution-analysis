@@ -36,7 +36,7 @@
   - Excel-power query : ETL
   - SQL : Data cleaning
   - MYSQL : Transformation and loading
-  - Power BI : Data model and visuaization
+  - Power BI : Data model and visualization
  
 
 ### Data cleaning 
