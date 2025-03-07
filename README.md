@@ -21,10 +21,11 @@
    - A dashboard in which we see the distribution per gender , race , age , age group distribution, gender distibution per department , age distibution per gender , termination disbtribution per department
    - A chart regarding the evolution of employees nunmber
 
+![Screenshot 2025-03-07 205736](https://github.com/user-attachments/assets/d15ed3ce-d2ff-4cb7-b264-ceff45ea2fe7)
 
-
-
+![Dashbaord1](https://github.com/user-attachments/assets/56cc7f45-9ef6-4901-8988-111974b6eda7)
   
+![dashbaord2](https://github.com/user-attachments/assets/1e6f449b-dcd7-4d5a-83b5-eb65462e7a2e)
 
  ### Data sources
  ---
